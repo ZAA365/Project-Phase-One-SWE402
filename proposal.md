@@ -144,7 +144,7 @@ The project board will use `Backlog`, `Ready`, `In Progress`, `Review`, `Playtes
 | Audio and UI lead | HUD, prompts, SFX, ambience, music, spatial audio, and mixing. |
 | Producer and QA lead | Board, milestones, issue triage, testing, builds, and documentation. |
 
-Specific team names will be added after assignments are confirmed.
+Specific team names will be added after this phase 1 assignments are confirmed.
 
 ## High Level Weekly Timeline
 
@@ -179,7 +179,6 @@ The schedule assumes approximately three hours per person per week of planned cl
 ## Phase 2 Checkpoint
 
 By the Phase 2 checkpoint, the team will demonstrate:
-
 - A player can start inside the house and understand the first objective.
 - The player can move, collide, interact, and complete the basic puzzle route.
 - The ghost can appear and transition through its planned AI states.
@@ -187,7 +186,3 @@ By the Phase 2 checkpoint, the team will demonstrate:
 - The exit can be unlocked and reached in the same build.
 - Basic UI prompts and first-pass audio communicate important actions and danger.
 - A playtest report lists observed problems, evidence, and planned fixes.
-
-## Approval Request
-
-The team requests instructor approval to continue to Phase 2. Phase 2 will begin with the graybox loop and must-have systems. Stretch features will remain optional until the core scene is stable, playable, and testable.
